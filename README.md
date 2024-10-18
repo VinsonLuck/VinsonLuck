@@ -1,11 +1,16 @@
-## Hi there 👋
+## 🙋‍♂️ About **Vinson Luckianto**: 
+A Computer Science student at Binus University with a strong passion in software engineering, especially in web-based application development. Currently, I am developing my skills as a full-stack web developer through various projects that allow me to learn and grow in this fast-evolving field.
 
-<!--
+📚 **Currently Learning**:
+- Learning about Laravel Framework with PHP programming language for web-based applications.
+- Learning about Reactjs Framework for web-based application.
+  
+ <!--
 **VinsonLuck/VinsonLuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
